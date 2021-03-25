@@ -1,25 +1,62 @@
-DONE 1. Pastel colours pitches - do first, for easter
-DONE 1. Office coffee maker and microwave 
-2. Make Victorian Furniture Notion Doc (must haves and reach items)
-3. Illustrate 
- furniture
- all remnants in OPW
 
-TO QA / TO UPLOAD - st patties - march 17 
-- diner carousel 
-- office decoration
-- gather entry rug
+2. Victorian Furniture from the Notion Doc (must haves and reach items)
+3. Spacial Audio objects and environments
+4. Art Deco Notion Doc
 
 
--napkins carousel 
-DONE -pie
 
+TO QA / TO UPLOAD - 
+
+Sound Notes:
+CDN LINK similar to how we handle images
+1 hr ambient loop is 2gb and a large image is?? 
+file size max limit: ?
+no 1hr loops
+our tool can handle…responsible for paying for users storage (part of upgrade plan only?)
+hour loops OK for us on
+Sound music complaints - users shouldn’t be able to upload their own imo DMCA
+piracy of music problem
+
+we should have a generic library sounds
+we have to put the sound somewhere so it can be transmitted to the people who are listening it
+loaded to CDN (?) 
+we don’t care about storage costs at all !!  users can upload sound limits up to a limit 
+most of our objects will be spriteless emitters or radio? (some of them, fireplace) 
+volume slider 
+loops or not
+place object that has a firework sound
+place by trophy
+jaden and matt are in range but the rest aren’t
+they will hear it, they will hear it once and it will stop. if they refresh the page they will hear it, but if they revisit the page or stay there once and it will not loop. remove the sound property of the object. 
+“play this sound only once” cases 
+bushes rustle sound
+if you get close to it it will make the coffee animation go and the sound happen 
+it moves across the map 
+object sounds that will have on interaction on activation
+all looped sounds 
+
+READING: The Sound Studies Reader by Jonathan Sterne
+Phenomenology of Perception by Meaurice Merleau-Ponty
+
+
+Ambients:
+Rain
+Fire
+Chatter
+Forest
+Street 
+a Clock, Ticking
+a Fishtank, Bubbling
+a Water Fountain, Waterfalling
+
+
+
+Where people are on the map correlating to what sounds people want to work near
+
+$500 budget for sounds 
 
 ----
-
-- victorian furniture (JADEN)
-- passover - march 27+ (DAUD)
-- easter - april 4 (DAUD, JADEN wants one specific czech object as a “reach”)
+- easter - april 4 
 - 1x1.5 tables (drafting table)
 - playing cards .io
 - more food
