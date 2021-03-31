@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="4" height="8" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="Border.tsx"/>
+ <layer id="1" name="Outline" width="4" height="8">
+  <data encoding="csv">
+1,2,2,2684354561,
+1610612738,0,0,2684354562,
+1610612738,0,0,2684354562,
+1610612738,0,0,2684354562,
+1610612738,0,0,2684354562,
+1610612738,0,0,2684354562,
+1610612738,0,0,2684354562,
+1610612737,1073741826,1073741826,3221225473
+</data>
+ </layer>
+</map>
