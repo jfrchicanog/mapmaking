@@ -771,10 +771,10 @@
  </objectgroup>
  <objectgroup id="9" name="Labels" locked="1">
   <object id="108" x="768" y="0" width="512" height="64">
-   <text pixelsize="40" wrap="1" color="#ffffff" valign="center">Regular Posters and LBAs</text>
+   <text pixelsize="40" wrap="1" color="#ffffff" halign="center" valign="center">Online Poster Session</text>
   </object>
   <object id="110" x="768" y="2048" width="512" height="64">
-   <text pixelsize="40" wrap="1" color="#ffffff" valign="center">Regular Posters and LBAs</text>
+   <text pixelsize="40" wrap="1" color="#ffffff" halign="center" valign="center">Online Poster Session</text>
   </object>
  </objectgroup>
 </map>
