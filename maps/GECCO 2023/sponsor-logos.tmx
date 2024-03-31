@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="11" height="15" tilewidth="32" tileheight="32" infinite="0" nextlayerid="14" nextobjectid="1">
+ <imagelayer id="2" name="abzu11">
+  <image source="Abzu-dim11x5.png" width="352" height="160"/>
+ </imagelayer>
+ <imagelayer id="3" name="abzu5" offsetx="0" offsety="160">
+  <image source="Abzu-dim5x2.png" width="160" height="64"/>
+ </imagelayer>
+ <imagelayer id="4" name="google" offsetx="192" offsety="160">
+  <image source="logos/Google Logo-dim5.png" width="160" height="64"/>
+ </imagelayer>
+ <imagelayer id="5" name="cognizant-white" offsetx="0" offsety="224">
+  <image source="logos/cognizant-logo-dim5-white.png" width="160" height="32"/>
+ </imagelayer>
+ <imagelayer id="6" name="cognizant-trans" offsetx="192" offsety="224">
+  <image source="logos/cognizant-logo-dim5-trans.png" width="160" height="32"/>
+ </imagelayer>
+ <imagelayer id="7" name="sigevo-white" offsetx="0" offsety="256">
+  <image source="logos/sigevo_logo-dim5-white.png" width="160" height="64"/>
+ </imagelayer>
+ <imagelayer id="8" name="sigevo-trans" offsetx="192" offsety="256">
+  <image source="logos/sigevo_logo-dim5-trans.png" width="160" height="64"/>
+ </imagelayer>
+ <imagelayer id="9" name="acm" offsetx="0" offsety="320">
+  <image source="logos/acm_white_hightagline-dim5.png" width="160" height="64"/>
+ </imagelayer>
+ <imagelayer id="10" name="acm-sigevo" offsetx="192" offsety="320">
+  <image source="logos/acm-sigevo-dim5.png" width="160" height="64"/>
+ </imagelayer>
+ <imagelayer id="11" name="telo" offsetx="0" offsety="384">
+  <image source="logos/telo2-dim5.png" width="160" height="32"/>
+ </imagelayer>
+ <imagelayer id="12" name="springer" offsetx="192" offsety="384">
+  <image source="logos/springer-dim5.png" width="160" height="64"/>
+ </imagelayer>
+</map>

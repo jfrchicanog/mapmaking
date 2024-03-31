@@ -1,0 +1,2477 @@
+{
+    "content":
+    {
+        "announcer":
+        [
+            {
+                "x": 18,
+                "y": 5
+            },
+            {
+                "x": 26,
+                "y": 5
+            }
+        ],
+        "mostRecentUpdateId": 5668261206494053,
+        "collisions": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAQEBAQEBAQEBAQEBAQABAAAAAAAAAQEBAQEBAQEBAQEBAQEBAQEBAQEAAAAAAAAAAAAAAQAAAQABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAEBAQEBAAAAAQEBAQEAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "portals":
+        [],
+        "objects":
+        {
+            "MHo9":
+            {
+                "normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/iC33KYhfP2pnaSFwUgO-U",
+                "orientation": 0,
+                "_name": "Microphone",
+                "color": "#323c39",
+                "_tags":
+                [
+                    "decorations",
+                    "social event",
+                    "music",
+                    "cafe"
+                ],
+                "type": 0,
+                "templateId": "Microphone - fdXqdLkY2mEDWq9Ud9c2P",
+                "width": 1,
+                "x": 27,
+                "y": 5,
+                "id": "Microphone - fdXqdLkY2mEDWq9Ud9c2P_a123d378-aa0d-4403-989f-99368a1c3b75",
+                "properties":
+                {},
+                "key": "MHo9",
+                "height": 1,
+                "zIndex": 3
+            },
+            "Jk00":
+            {
+                "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F78vZdiyKCXver5ef?alt=media&token=1c149cab-138b-4643-9fa9-159c46c88b59",
+                "orientation": 0,
+                "_name": "Spotlight indicator",
+                "color": "#222034",
+                "_tags":
+                [
+                    "wayfinding",
+                    "professional event",
+                    "remote work"
+                ],
+                "type": 0,
+                "templateId": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq",
+                "width": 1,
+                "x": 26,
+                "y": 5,
+                "id": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq_f534537a-e533-4165-853c-3998898815ac",
+                "properties":
+                {},
+                "key": "Jk00",
+                "height": 1,
+                "zIndex": 2
+            },
+            "qy7P":
+            {
+                "normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/LQkv3KB-T_Z5lacqYkknA",
+                "orientation": 2,
+                "_name": "Microphone",
+                "color": "#323c39",
+                "_tags":
+                [
+                    "decorations",
+                    "social event",
+                    "music",
+                    "cafe"
+                ],
+                "type": 0,
+                "templateId": "Microphone - fdXqdLkY2mEDWq9Ud9c2P",
+                "width": 1,
+                "x": 17,
+                "y": 5,
+                "id": "Microphone - fdXqdLkY2mEDWq9Ud9c2P_b942600b-b614-4fea-acb0-583d6e90e005",
+                "properties":
+                {},
+                "key": "qy7P",
+                "height": 1,
+                "zIndex": 4
+            },
+            "25L6":
+            {
+                "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F78vZdiyKCXver5ef?alt=media&token=1c149cab-138b-4643-9fa9-159c46c88b59",
+                "orientation": 0,
+                "_name": "Spotlight indicator",
+                "color": "#222034",
+                "_tags":
+                [
+                    "wayfinding",
+                    "professional event",
+                    "remote work"
+                ],
+                "type": 0,
+                "templateId": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq",
+                "width": 1,
+                "x": 18,
+                "y": 5,
+                "id": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq_a0812209-6f44-4170-980f-d6ed00ee1ea8",
+                "properties":
+                {},
+                "key": "25L6",
+                "height": 1,
+                "zIndex": 1
+            }
+        },
+        "useDrawnBG": false,
+        "spawns":
+        [
+            {
+                "x": 32,
+                "y": 8,
+                "spawnId": "sx28y8"
+            },
+            {
+                "x": 31,
+                "y": 8,
+                "spawnId": "sx28y8"
+            },
+            {
+                "x": 30,
+                "y": 8,
+                "spawnId": "sx28y8"
+            },
+            {
+                "x": 29,
+                "y": 8,
+                "spawnId": "sx28y8"
+            },
+            {
+                "x": 28,
+                "y": 8,
+                "spawnId": "sx28y8"
+            },
+            {
+                "x": 7,
+                "y": 10,
+                "spawnId": "sx4y8"
+            },
+            {
+                "x": 6,
+                "y": 8,
+                "spawnId": "sx4y8"
+            },
+            {
+                "x": 6,
+                "y": 9,
+                "spawnId": "sx4y8"
+            },
+            {
+                "x": 5,
+                "y": 8,
+                "spawnId": "sx4y8"
+            },
+            {
+                "x": 5,
+                "y": 9,
+                "spawnId": "sx4y8"
+            },
+            {
+                "x": 4,
+                "y": 8,
+                "spawnId": "sx4y8"
+            },
+            {
+                "x": 4,
+                "y": 9,
+                "spawnId": "sx4y8"
+            },
+            {
+                "x": 8,
+                "y": 8,
+                "spawnId": "sx4y8"
+            },
+            {
+                "x": 8,
+                "y": 9,
+                "spawnId": "sx4y8"
+            },
+            {
+                "x": 8,
+                "y": 10,
+                "spawnId": "sx4y8"
+            },
+            {
+                "x": 7,
+                "y": 8,
+                "spawnId": "sx4y8"
+            },
+            {
+                "x": 7,
+                "y": 9,
+                "spawnId": "sx4y8"
+            },
+            {
+                "x": 17,
+                "y": 9,
+                "spawnId": "sx13y9"
+            },
+            {
+                "x": 16,
+                "y": 9,
+                "spawnId": "sx13y9"
+            },
+            {
+                "x": 15,
+                "y": 9,
+                "spawnId": "sx13y9"
+            },
+            {
+                "x": 14,
+                "y": 9,
+                "spawnId": "sx13y9"
+            },
+            {
+                "x": 13,
+                "y": 9,
+                "spawnId": "sx13y9"
+            },
+            {
+                "x": 22,
+                "y": 3,
+                "spawnId": "sx19y3"
+            },
+            {
+                "x": 21,
+                "y": 3,
+                "spawnId": "sx19y3"
+            },
+            {
+                "x": 20,
+                "y": 3,
+                "spawnId": "sx19y3"
+            },
+            {
+                "x": 19,
+                "y": 3,
+                "spawnId": "sx19y3"
+            },
+            {
+                "x": 4,
+                "y": 5
+            }
+        ],
+        "backgroundImagePath": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/wuczIoykXOKBYPiv/KisSHHqWTPfYwfs2Yu5Ttx",
+        "assets":
+        [],
+        "floors":
+        {},
+        "walls":
+        {},
+        "nooks":
+        {
+            "px4y27":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 4,
+                            "y": 27
+                        },
+                        {
+                            "x": 4,
+                            "y": 28
+                        },
+                        {
+                            "x": 4,
+                            "y": 29
+                        },
+                        {
+                            "x": 4,
+                            "y": 30
+                        },
+                        {
+                            "x": 4,
+                            "y": 31
+                        },
+                        {
+                            "x": 5,
+                            "y": 27
+                        },
+                        {
+                            "x": 5,
+                            "y": 28
+                        },
+                        {
+                            "x": 5,
+                            "y": 29
+                        },
+                        {
+                            "x": 5,
+                            "y": 30
+                        },
+                        {
+                            "x": 5,
+                            "y": 31
+                        },
+                        {
+                            "x": 6,
+                            "y": 27
+                        },
+                        {
+                            "x": 6,
+                            "y": 28
+                        },
+                        {
+                            "x": 6,
+                            "y": 29
+                        },
+                        {
+                            "x": 6,
+                            "y": 30
+                        },
+                        {
+                            "x": 6,
+                            "y": 31
+                        },
+                        {
+                            "x": 7,
+                            "y": 27
+                        },
+                        {
+                            "x": 7,
+                            "y": 28
+                        },
+                        {
+                            "x": 7,
+                            "y": 29
+                        },
+                        {
+                            "x": 7,
+                            "y": 30
+                        },
+                        {
+                            "x": 7,
+                            "y": 31
+                        },
+                        {
+                            "x": 8,
+                            "y": 27
+                        },
+                        {
+                            "x": 8,
+                            "y": 28
+                        },
+                        {
+                            "x": 8,
+                            "y": 29
+                        },
+                        {
+                            "x": 8,
+                            "y": 30
+                        },
+                        {
+                            "x": 8,
+                            "y": 31
+                        }
+                    ]
+                },
+                "name": "px4y27"
+            },
+            "px20y35":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 20,
+                            "y": 35
+                        },
+                        {
+                            "x": 20,
+                            "y": 36
+                        },
+                        {
+                            "x": 20,
+                            "y": 37
+                        },
+                        {
+                            "x": 20,
+                            "y": 38
+                        },
+                        {
+                            "x": 20,
+                            "y": 39
+                        },
+                        {
+                            "x": 21,
+                            "y": 35
+                        },
+                        {
+                            "x": 21,
+                            "y": 36
+                        },
+                        {
+                            "x": 21,
+                            "y": 37
+                        },
+                        {
+                            "x": 21,
+                            "y": 38
+                        },
+                        {
+                            "x": 21,
+                            "y": 39
+                        },
+                        {
+                            "x": 22,
+                            "y": 35
+                        },
+                        {
+                            "x": 22,
+                            "y": 36
+                        },
+                        {
+                            "x": 22,
+                            "y": 37
+                        },
+                        {
+                            "x": 22,
+                            "y": 38
+                        },
+                        {
+                            "x": 22,
+                            "y": 39
+                        },
+                        {
+                            "x": 23,
+                            "y": 35
+                        },
+                        {
+                            "x": 23,
+                            "y": 36
+                        },
+                        {
+                            "x": 23,
+                            "y": 37
+                        },
+                        {
+                            "x": 23,
+                            "y": 38
+                        },
+                        {
+                            "x": 23,
+                            "y": 39
+                        },
+                        {
+                            "x": 24,
+                            "y": 35
+                        },
+                        {
+                            "x": 24,
+                            "y": 36
+                        },
+                        {
+                            "x": 24,
+                            "y": 37
+                        },
+                        {
+                            "x": 24,
+                            "y": 38
+                        },
+                        {
+                            "x": 24,
+                            "y": 39
+                        }
+                    ]
+                },
+                "name": "px20y35"
+            },
+            "px20y11":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 20,
+                            "y": 11
+                        },
+                        {
+                            "x": 20,
+                            "y": 12
+                        },
+                        {
+                            "x": 20,
+                            "y": 13
+                        },
+                        {
+                            "x": 20,
+                            "y": 14
+                        },
+                        {
+                            "x": 20,
+                            "y": 15
+                        },
+                        {
+                            "x": 21,
+                            "y": 11
+                        },
+                        {
+                            "x": 21,
+                            "y": 12
+                        },
+                        {
+                            "x": 21,
+                            "y": 13
+                        },
+                        {
+                            "x": 21,
+                            "y": 14
+                        },
+                        {
+                            "x": 21,
+                            "y": 15
+                        },
+                        {
+                            "x": 22,
+                            "y": 11
+                        },
+                        {
+                            "x": 22,
+                            "y": 12
+                        },
+                        {
+                            "x": 22,
+                            "y": 13
+                        },
+                        {
+                            "x": 22,
+                            "y": 14
+                        },
+                        {
+                            "x": 22,
+                            "y": 15
+                        },
+                        {
+                            "x": 23,
+                            "y": 11
+                        },
+                        {
+                            "x": 23,
+                            "y": 12
+                        },
+                        {
+                            "x": 23,
+                            "y": 13
+                        },
+                        {
+                            "x": 23,
+                            "y": 14
+                        },
+                        {
+                            "x": 23,
+                            "y": 15
+                        },
+                        {
+                            "x": 24,
+                            "y": 11
+                        },
+                        {
+                            "x": 24,
+                            "y": 12
+                        },
+                        {
+                            "x": 24,
+                            "y": 13
+                        },
+                        {
+                            "x": 24,
+                            "y": 14
+                        },
+                        {
+                            "x": 24,
+                            "y": 15
+                        }
+                    ]
+                },
+                "name": "px20y11"
+            },
+            "px36y11":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 36,
+                            "y": 11
+                        },
+                        {
+                            "x": 36,
+                            "y": 12
+                        },
+                        {
+                            "x": 36,
+                            "y": 13
+                        },
+                        {
+                            "x": 36,
+                            "y": 14
+                        },
+                        {
+                            "x": 36,
+                            "y": 15
+                        },
+                        {
+                            "x": 37,
+                            "y": 11
+                        },
+                        {
+                            "x": 37,
+                            "y": 12
+                        },
+                        {
+                            "x": 37,
+                            "y": 13
+                        },
+                        {
+                            "x": 37,
+                            "y": 14
+                        },
+                        {
+                            "x": 37,
+                            "y": 15
+                        },
+                        {
+                            "x": 38,
+                            "y": 11
+                        },
+                        {
+                            "x": 38,
+                            "y": 12
+                        },
+                        {
+                            "x": 38,
+                            "y": 13
+                        },
+                        {
+                            "x": 38,
+                            "y": 14
+                        },
+                        {
+                            "x": 38,
+                            "y": 15
+                        },
+                        {
+                            "x": 39,
+                            "y": 11
+                        },
+                        {
+                            "x": 39,
+                            "y": 12
+                        },
+                        {
+                            "x": 39,
+                            "y": 13
+                        },
+                        {
+                            "x": 39,
+                            "y": 14
+                        },
+                        {
+                            "x": 39,
+                            "y": 15
+                        },
+                        {
+                            "x": 40,
+                            "y": 11
+                        },
+                        {
+                            "x": 40,
+                            "y": 12
+                        },
+                        {
+                            "x": 40,
+                            "y": 13
+                        },
+                        {
+                            "x": 40,
+                            "y": 14
+                        },
+                        {
+                            "x": 40,
+                            "y": 15
+                        }
+                    ]
+                },
+                "name": "px36y11"
+            },
+            "px4y19":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 4,
+                            "y": 19
+                        },
+                        {
+                            "x": 4,
+                            "y": 20
+                        },
+                        {
+                            "x": 4,
+                            "y": 21
+                        },
+                        {
+                            "x": 4,
+                            "y": 22
+                        },
+                        {
+                            "x": 4,
+                            "y": 23
+                        },
+                        {
+                            "x": 5,
+                            "y": 19
+                        },
+                        {
+                            "x": 5,
+                            "y": 20
+                        },
+                        {
+                            "x": 5,
+                            "y": 21
+                        },
+                        {
+                            "x": 5,
+                            "y": 22
+                        },
+                        {
+                            "x": 5,
+                            "y": 23
+                        },
+                        {
+                            "x": 6,
+                            "y": 19
+                        },
+                        {
+                            "x": 6,
+                            "y": 20
+                        },
+                        {
+                            "x": 6,
+                            "y": 21
+                        },
+                        {
+                            "x": 6,
+                            "y": 22
+                        },
+                        {
+                            "x": 6,
+                            "y": 23
+                        },
+                        {
+                            "x": 7,
+                            "y": 19
+                        },
+                        {
+                            "x": 7,
+                            "y": 20
+                        },
+                        {
+                            "x": 7,
+                            "y": 21
+                        },
+                        {
+                            "x": 7,
+                            "y": 22
+                        },
+                        {
+                            "x": 7,
+                            "y": 23
+                        },
+                        {
+                            "x": 8,
+                            "y": 19
+                        },
+                        {
+                            "x": 8,
+                            "y": 20
+                        },
+                        {
+                            "x": 8,
+                            "y": 21
+                        },
+                        {
+                            "x": 8,
+                            "y": 22
+                        },
+                        {
+                            "x": 8,
+                            "y": 23
+                        }
+                    ]
+                },
+                "name": "px4y19"
+            },
+            "px28y19":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 28,
+                            "y": 19
+                        },
+                        {
+                            "x": 28,
+                            "y": 20
+                        },
+                        {
+                            "x": 28,
+                            "y": 21
+                        },
+                        {
+                            "x": 28,
+                            "y": 22
+                        },
+                        {
+                            "x": 28,
+                            "y": 23
+                        },
+                        {
+                            "x": 29,
+                            "y": 19
+                        },
+                        {
+                            "x": 29,
+                            "y": 20
+                        },
+                        {
+                            "x": 29,
+                            "y": 21
+                        },
+                        {
+                            "x": 29,
+                            "y": 22
+                        },
+                        {
+                            "x": 29,
+                            "y": 23
+                        },
+                        {
+                            "x": 30,
+                            "y": 19
+                        },
+                        {
+                            "x": 30,
+                            "y": 20
+                        },
+                        {
+                            "x": 30,
+                            "y": 21
+                        },
+                        {
+                            "x": 30,
+                            "y": 22
+                        },
+                        {
+                            "x": 30,
+                            "y": 23
+                        },
+                        {
+                            "x": 31,
+                            "y": 19
+                        },
+                        {
+                            "x": 31,
+                            "y": 20
+                        },
+                        {
+                            "x": 31,
+                            "y": 21
+                        },
+                        {
+                            "x": 31,
+                            "y": 22
+                        },
+                        {
+                            "x": 31,
+                            "y": 23
+                        },
+                        {
+                            "x": 32,
+                            "y": 19
+                        },
+                        {
+                            "x": 32,
+                            "y": 20
+                        },
+                        {
+                            "x": 32,
+                            "y": 21
+                        },
+                        {
+                            "x": 32,
+                            "y": 22
+                        },
+                        {
+                            "x": 32,
+                            "y": 23
+                        }
+                    ]
+                },
+                "name": "px28y19"
+            },
+            "px28y27":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 28,
+                            "y": 27
+                        },
+                        {
+                            "x": 28,
+                            "y": 28
+                        },
+                        {
+                            "x": 28,
+                            "y": 29
+                        },
+                        {
+                            "x": 28,
+                            "y": 30
+                        },
+                        {
+                            "x": 28,
+                            "y": 31
+                        },
+                        {
+                            "x": 29,
+                            "y": 27
+                        },
+                        {
+                            "x": 29,
+                            "y": 28
+                        },
+                        {
+                            "x": 29,
+                            "y": 29
+                        },
+                        {
+                            "x": 29,
+                            "y": 30
+                        },
+                        {
+                            "x": 29,
+                            "y": 31
+                        },
+                        {
+                            "x": 30,
+                            "y": 27
+                        },
+                        {
+                            "x": 30,
+                            "y": 28
+                        },
+                        {
+                            "x": 30,
+                            "y": 29
+                        },
+                        {
+                            "x": 30,
+                            "y": 30
+                        },
+                        {
+                            "x": 30,
+                            "y": 31
+                        },
+                        {
+                            "x": 31,
+                            "y": 27
+                        },
+                        {
+                            "x": 31,
+                            "y": 28
+                        },
+                        {
+                            "x": 31,
+                            "y": 29
+                        },
+                        {
+                            "x": 31,
+                            "y": 30
+                        },
+                        {
+                            "x": 31,
+                            "y": 31
+                        },
+                        {
+                            "x": 32,
+                            "y": 27
+                        },
+                        {
+                            "x": 32,
+                            "y": 28
+                        },
+                        {
+                            "x": 32,
+                            "y": 29
+                        },
+                        {
+                            "x": 32,
+                            "y": 30
+                        },
+                        {
+                            "x": 32,
+                            "y": 31
+                        }
+                    ]
+                },
+                "name": "px28y27"
+            },
+            "px20y19":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 20,
+                            "y": 19
+                        },
+                        {
+                            "x": 20,
+                            "y": 20
+                        },
+                        {
+                            "x": 20,
+                            "y": 21
+                        },
+                        {
+                            "x": 20,
+                            "y": 22
+                        },
+                        {
+                            "x": 20,
+                            "y": 23
+                        },
+                        {
+                            "x": 21,
+                            "y": 19
+                        },
+                        {
+                            "x": 21,
+                            "y": 20
+                        },
+                        {
+                            "x": 21,
+                            "y": 21
+                        },
+                        {
+                            "x": 21,
+                            "y": 22
+                        },
+                        {
+                            "x": 21,
+                            "y": 23
+                        },
+                        {
+                            "x": 22,
+                            "y": 19
+                        },
+                        {
+                            "x": 22,
+                            "y": 20
+                        },
+                        {
+                            "x": 22,
+                            "y": 21
+                        },
+                        {
+                            "x": 22,
+                            "y": 22
+                        },
+                        {
+                            "x": 22,
+                            "y": 23
+                        },
+                        {
+                            "x": 23,
+                            "y": 19
+                        },
+                        {
+                            "x": 23,
+                            "y": 20
+                        },
+                        {
+                            "x": 23,
+                            "y": 21
+                        },
+                        {
+                            "x": 23,
+                            "y": 22
+                        },
+                        {
+                            "x": 23,
+                            "y": 23
+                        },
+                        {
+                            "x": 24,
+                            "y": 19
+                        },
+                        {
+                            "x": 24,
+                            "y": 20
+                        },
+                        {
+                            "x": 24,
+                            "y": 21
+                        },
+                        {
+                            "x": 24,
+                            "y": 22
+                        },
+                        {
+                            "x": 24,
+                            "y": 23
+                        }
+                    ]
+                },
+                "name": "px20y19"
+            },
+            "px20y27":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 20,
+                            "y": 27
+                        },
+                        {
+                            "x": 20,
+                            "y": 28
+                        },
+                        {
+                            "x": 20,
+                            "y": 29
+                        },
+                        {
+                            "x": 20,
+                            "y": 30
+                        },
+                        {
+                            "x": 20,
+                            "y": 31
+                        },
+                        {
+                            "x": 21,
+                            "y": 27
+                        },
+                        {
+                            "x": 21,
+                            "y": 28
+                        },
+                        {
+                            "x": 21,
+                            "y": 29
+                        },
+                        {
+                            "x": 21,
+                            "y": 30
+                        },
+                        {
+                            "x": 21,
+                            "y": 31
+                        },
+                        {
+                            "x": 22,
+                            "y": 27
+                        },
+                        {
+                            "x": 22,
+                            "y": 28
+                        },
+                        {
+                            "x": 22,
+                            "y": 29
+                        },
+                        {
+                            "x": 22,
+                            "y": 30
+                        },
+                        {
+                            "x": 22,
+                            "y": 31
+                        },
+                        {
+                            "x": 23,
+                            "y": 27
+                        },
+                        {
+                            "x": 23,
+                            "y": 28
+                        },
+                        {
+                            "x": 23,
+                            "y": 29
+                        },
+                        {
+                            "x": 23,
+                            "y": 30
+                        },
+                        {
+                            "x": 23,
+                            "y": 31
+                        },
+                        {
+                            "x": 24,
+                            "y": 27
+                        },
+                        {
+                            "x": 24,
+                            "y": 28
+                        },
+                        {
+                            "x": 24,
+                            "y": 29
+                        },
+                        {
+                            "x": 24,
+                            "y": 30
+                        },
+                        {
+                            "x": 24,
+                            "y": 31
+                        }
+                    ]
+                },
+                "name": "px20y27"
+            },
+            "px28y11":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 28,
+                            "y": 11
+                        },
+                        {
+                            "x": 28,
+                            "y": 12
+                        },
+                        {
+                            "x": 28,
+                            "y": 13
+                        },
+                        {
+                            "x": 28,
+                            "y": 14
+                        },
+                        {
+                            "x": 28,
+                            "y": 15
+                        },
+                        {
+                            "x": 29,
+                            "y": 11
+                        },
+                        {
+                            "x": 29,
+                            "y": 12
+                        },
+                        {
+                            "x": 29,
+                            "y": 13
+                        },
+                        {
+                            "x": 29,
+                            "y": 14
+                        },
+                        {
+                            "x": 29,
+                            "y": 15
+                        },
+                        {
+                            "x": 30,
+                            "y": 11
+                        },
+                        {
+                            "x": 30,
+                            "y": 12
+                        },
+                        {
+                            "x": 30,
+                            "y": 13
+                        },
+                        {
+                            "x": 30,
+                            "y": 14
+                        },
+                        {
+                            "x": 30,
+                            "y": 15
+                        },
+                        {
+                            "x": 31,
+                            "y": 11
+                        },
+                        {
+                            "x": 31,
+                            "y": 12
+                        },
+                        {
+                            "x": 31,
+                            "y": 13
+                        },
+                        {
+                            "x": 31,
+                            "y": 14
+                        },
+                        {
+                            "x": 31,
+                            "y": 15
+                        },
+                        {
+                            "x": 32,
+                            "y": 11
+                        },
+                        {
+                            "x": 32,
+                            "y": 12
+                        },
+                        {
+                            "x": 32,
+                            "y": 13
+                        },
+                        {
+                            "x": 32,
+                            "y": 14
+                        },
+                        {
+                            "x": 32,
+                            "y": 15
+                        }
+                    ]
+                },
+                "name": "px28y11"
+            },
+            "px12y19":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 12,
+                            "y": 19
+                        },
+                        {
+                            "x": 12,
+                            "y": 20
+                        },
+                        {
+                            "x": 12,
+                            "y": 21
+                        },
+                        {
+                            "x": 12,
+                            "y": 22
+                        },
+                        {
+                            "x": 12,
+                            "y": 23
+                        },
+                        {
+                            "x": 13,
+                            "y": 19
+                        },
+                        {
+                            "x": 13,
+                            "y": 20
+                        },
+                        {
+                            "x": 13,
+                            "y": 21
+                        },
+                        {
+                            "x": 13,
+                            "y": 22
+                        },
+                        {
+                            "x": 13,
+                            "y": 23
+                        },
+                        {
+                            "x": 14,
+                            "y": 19
+                        },
+                        {
+                            "x": 14,
+                            "y": 20
+                        },
+                        {
+                            "x": 14,
+                            "y": 21
+                        },
+                        {
+                            "x": 14,
+                            "y": 22
+                        },
+                        {
+                            "x": 14,
+                            "y": 23
+                        },
+                        {
+                            "x": 15,
+                            "y": 19
+                        },
+                        {
+                            "x": 15,
+                            "y": 20
+                        },
+                        {
+                            "x": 15,
+                            "y": 21
+                        },
+                        {
+                            "x": 15,
+                            "y": 22
+                        },
+                        {
+                            "x": 15,
+                            "y": 23
+                        },
+                        {
+                            "x": 16,
+                            "y": 19
+                        },
+                        {
+                            "x": 16,
+                            "y": 20
+                        },
+                        {
+                            "x": 16,
+                            "y": 21
+                        },
+                        {
+                            "x": 16,
+                            "y": 22
+                        },
+                        {
+                            "x": 16,
+                            "y": 23
+                        }
+                    ]
+                },
+                "name": "px12y19"
+            },
+            "px28y35":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 28,
+                            "y": 35
+                        },
+                        {
+                            "x": 28,
+                            "y": 36
+                        },
+                        {
+                            "x": 28,
+                            "y": 37
+                        },
+                        {
+                            "x": 28,
+                            "y": 38
+                        },
+                        {
+                            "x": 28,
+                            "y": 39
+                        },
+                        {
+                            "x": 29,
+                            "y": 35
+                        },
+                        {
+                            "x": 29,
+                            "y": 36
+                        },
+                        {
+                            "x": 29,
+                            "y": 37
+                        },
+                        {
+                            "x": 29,
+                            "y": 38
+                        },
+                        {
+                            "x": 29,
+                            "y": 39
+                        },
+                        {
+                            "x": 30,
+                            "y": 35
+                        },
+                        {
+                            "x": 30,
+                            "y": 36
+                        },
+                        {
+                            "x": 30,
+                            "y": 37
+                        },
+                        {
+                            "x": 30,
+                            "y": 38
+                        },
+                        {
+                            "x": 30,
+                            "y": 39
+                        },
+                        {
+                            "x": 31,
+                            "y": 35
+                        },
+                        {
+                            "x": 31,
+                            "y": 36
+                        },
+                        {
+                            "x": 31,
+                            "y": 37
+                        },
+                        {
+                            "x": 31,
+                            "y": 38
+                        },
+                        {
+                            "x": 31,
+                            "y": 39
+                        },
+                        {
+                            "x": 32,
+                            "y": 35
+                        },
+                        {
+                            "x": 32,
+                            "y": 36
+                        },
+                        {
+                            "x": 32,
+                            "y": 37
+                        },
+                        {
+                            "x": 32,
+                            "y": 38
+                        },
+                        {
+                            "x": 32,
+                            "y": 39
+                        }
+                    ]
+                },
+                "name": "px28y35"
+            },
+            "px12y35":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 12,
+                            "y": 35
+                        },
+                        {
+                            "x": 12,
+                            "y": 36
+                        },
+                        {
+                            "x": 12,
+                            "y": 37
+                        },
+                        {
+                            "x": 12,
+                            "y": 38
+                        },
+                        {
+                            "x": 12,
+                            "y": 39
+                        },
+                        {
+                            "x": 13,
+                            "y": 35
+                        },
+                        {
+                            "x": 13,
+                            "y": 36
+                        },
+                        {
+                            "x": 13,
+                            "y": 37
+                        },
+                        {
+                            "x": 13,
+                            "y": 38
+                        },
+                        {
+                            "x": 13,
+                            "y": 39
+                        },
+                        {
+                            "x": 14,
+                            "y": 35
+                        },
+                        {
+                            "x": 14,
+                            "y": 36
+                        },
+                        {
+                            "x": 14,
+                            "y": 37
+                        },
+                        {
+                            "x": 14,
+                            "y": 38
+                        },
+                        {
+                            "x": 14,
+                            "y": 39
+                        },
+                        {
+                            "x": 15,
+                            "y": 35
+                        },
+                        {
+                            "x": 15,
+                            "y": 36
+                        },
+                        {
+                            "x": 15,
+                            "y": 37
+                        },
+                        {
+                            "x": 15,
+                            "y": 38
+                        },
+                        {
+                            "x": 15,
+                            "y": 39
+                        },
+                        {
+                            "x": 16,
+                            "y": 35
+                        },
+                        {
+                            "x": 16,
+                            "y": 36
+                        },
+                        {
+                            "x": 16,
+                            "y": 37
+                        },
+                        {
+                            "x": 16,
+                            "y": 38
+                        },
+                        {
+                            "x": 16,
+                            "y": 39
+                        }
+                    ]
+                },
+                "name": "px12y35"
+            },
+            "px36y35":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 36,
+                            "y": 35
+                        },
+                        {
+                            "x": 36,
+                            "y": 36
+                        },
+                        {
+                            "x": 36,
+                            "y": 37
+                        },
+                        {
+                            "x": 36,
+                            "y": 38
+                        },
+                        {
+                            "x": 36,
+                            "y": 39
+                        },
+                        {
+                            "x": 37,
+                            "y": 35
+                        },
+                        {
+                            "x": 37,
+                            "y": 36
+                        },
+                        {
+                            "x": 37,
+                            "y": 37
+                        },
+                        {
+                            "x": 37,
+                            "y": 38
+                        },
+                        {
+                            "x": 37,
+                            "y": 39
+                        },
+                        {
+                            "x": 38,
+                            "y": 35
+                        },
+                        {
+                            "x": 38,
+                            "y": 36
+                        },
+                        {
+                            "x": 38,
+                            "y": 37
+                        },
+                        {
+                            "x": 38,
+                            "y": 38
+                        },
+                        {
+                            "x": 38,
+                            "y": 39
+                        },
+                        {
+                            "x": 39,
+                            "y": 35
+                        },
+                        {
+                            "x": 39,
+                            "y": 36
+                        },
+                        {
+                            "x": 39,
+                            "y": 37
+                        },
+                        {
+                            "x": 39,
+                            "y": 38
+                        },
+                        {
+                            "x": 39,
+                            "y": 39
+                        },
+                        {
+                            "x": 40,
+                            "y": 35
+                        },
+                        {
+                            "x": 40,
+                            "y": 36
+                        },
+                        {
+                            "x": 40,
+                            "y": 37
+                        },
+                        {
+                            "x": 40,
+                            "y": 38
+                        },
+                        {
+                            "x": 40,
+                            "y": 39
+                        }
+                    ]
+                },
+                "name": "px36y35"
+            },
+            "px12y11":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 12,
+                            "y": 11
+                        },
+                        {
+                            "x": 12,
+                            "y": 12
+                        },
+                        {
+                            "x": 12,
+                            "y": 13
+                        },
+                        {
+                            "x": 12,
+                            "y": 14
+                        },
+                        {
+                            "x": 12,
+                            "y": 15
+                        },
+                        {
+                            "x": 13,
+                            "y": 11
+                        },
+                        {
+                            "x": 13,
+                            "y": 12
+                        },
+                        {
+                            "x": 13,
+                            "y": 13
+                        },
+                        {
+                            "x": 13,
+                            "y": 14
+                        },
+                        {
+                            "x": 13,
+                            "y": 15
+                        },
+                        {
+                            "x": 14,
+                            "y": 11
+                        },
+                        {
+                            "x": 14,
+                            "y": 12
+                        },
+                        {
+                            "x": 14,
+                            "y": 13
+                        },
+                        {
+                            "x": 14,
+                            "y": 14
+                        },
+                        {
+                            "x": 14,
+                            "y": 15
+                        },
+                        {
+                            "x": 15,
+                            "y": 11
+                        },
+                        {
+                            "x": 15,
+                            "y": 12
+                        },
+                        {
+                            "x": 15,
+                            "y": 13
+                        },
+                        {
+                            "x": 15,
+                            "y": 14
+                        },
+                        {
+                            "x": 15,
+                            "y": 15
+                        },
+                        {
+                            "x": 16,
+                            "y": 11
+                        },
+                        {
+                            "x": 16,
+                            "y": 12
+                        },
+                        {
+                            "x": 16,
+                            "y": 13
+                        },
+                        {
+                            "x": 16,
+                            "y": 14
+                        },
+                        {
+                            "x": 16,
+                            "y": 15
+                        }
+                    ]
+                },
+                "name": "px12y11"
+            },
+            "px36y27":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 36,
+                            "y": 27
+                        },
+                        {
+                            "x": 36,
+                            "y": 28
+                        },
+                        {
+                            "x": 36,
+                            "y": 29
+                        },
+                        {
+                            "x": 36,
+                            "y": 30
+                        },
+                        {
+                            "x": 36,
+                            "y": 31
+                        },
+                        {
+                            "x": 37,
+                            "y": 27
+                        },
+                        {
+                            "x": 37,
+                            "y": 28
+                        },
+                        {
+                            "x": 37,
+                            "y": 29
+                        },
+                        {
+                            "x": 37,
+                            "y": 30
+                        },
+                        {
+                            "x": 37,
+                            "y": 31
+                        },
+                        {
+                            "x": 38,
+                            "y": 27
+                        },
+                        {
+                            "x": 38,
+                            "y": 28
+                        },
+                        {
+                            "x": 38,
+                            "y": 29
+                        },
+                        {
+                            "x": 38,
+                            "y": 30
+                        },
+                        {
+                            "x": 38,
+                            "y": 31
+                        },
+                        {
+                            "x": 39,
+                            "y": 27
+                        },
+                        {
+                            "x": 39,
+                            "y": 28
+                        },
+                        {
+                            "x": 39,
+                            "y": 29
+                        },
+                        {
+                            "x": 39,
+                            "y": 30
+                        },
+                        {
+                            "x": 39,
+                            "y": 31
+                        },
+                        {
+                            "x": 40,
+                            "y": 27
+                        },
+                        {
+                            "x": 40,
+                            "y": 28
+                        },
+                        {
+                            "x": 40,
+                            "y": 29
+                        },
+                        {
+                            "x": 40,
+                            "y": 30
+                        },
+                        {
+                            "x": 40,
+                            "y": 31
+                        }
+                    ]
+                },
+                "name": "px36y27"
+            },
+            "px4y35":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 4,
+                            "y": 35
+                        },
+                        {
+                            "x": 4,
+                            "y": 36
+                        },
+                        {
+                            "x": 4,
+                            "y": 37
+                        },
+                        {
+                            "x": 4,
+                            "y": 38
+                        },
+                        {
+                            "x": 4,
+                            "y": 39
+                        },
+                        {
+                            "x": 5,
+                            "y": 35
+                        },
+                        {
+                            "x": 5,
+                            "y": 36
+                        },
+                        {
+                            "x": 5,
+                            "y": 37
+                        },
+                        {
+                            "x": 5,
+                            "y": 38
+                        },
+                        {
+                            "x": 5,
+                            "y": 39
+                        },
+                        {
+                            "x": 6,
+                            "y": 35
+                        },
+                        {
+                            "x": 6,
+                            "y": 36
+                        },
+                        {
+                            "x": 6,
+                            "y": 37
+                        },
+                        {
+                            "x": 6,
+                            "y": 38
+                        },
+                        {
+                            "x": 6,
+                            "y": 39
+                        },
+                        {
+                            "x": 7,
+                            "y": 35
+                        },
+                        {
+                            "x": 7,
+                            "y": 36
+                        },
+                        {
+                            "x": 7,
+                            "y": 37
+                        },
+                        {
+                            "x": 7,
+                            "y": 38
+                        },
+                        {
+                            "x": 7,
+                            "y": 39
+                        },
+                        {
+                            "x": 8,
+                            "y": 35
+                        },
+                        {
+                            "x": 8,
+                            "y": 36
+                        },
+                        {
+                            "x": 8,
+                            "y": 37
+                        },
+                        {
+                            "x": 8,
+                            "y": 38
+                        },
+                        {
+                            "x": 8,
+                            "y": 39
+                        }
+                    ]
+                },
+                "name": "px4y35"
+            },
+            "px36y19":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 36,
+                            "y": 19
+                        },
+                        {
+                            "x": 36,
+                            "y": 20
+                        },
+                        {
+                            "x": 36,
+                            "y": 21
+                        },
+                        {
+                            "x": 36,
+                            "y": 22
+                        },
+                        {
+                            "x": 36,
+                            "y": 23
+                        },
+                        {
+                            "x": 37,
+                            "y": 19
+                        },
+                        {
+                            "x": 37,
+                            "y": 20
+                        },
+                        {
+                            "x": 37,
+                            "y": 21
+                        },
+                        {
+                            "x": 37,
+                            "y": 22
+                        },
+                        {
+                            "x": 37,
+                            "y": 23
+                        },
+                        {
+                            "x": 38,
+                            "y": 19
+                        },
+                        {
+                            "x": 38,
+                            "y": 20
+                        },
+                        {
+                            "x": 38,
+                            "y": 21
+                        },
+                        {
+                            "x": 38,
+                            "y": 22
+                        },
+                        {
+                            "x": 38,
+                            "y": 23
+                        },
+                        {
+                            "x": 39,
+                            "y": 19
+                        },
+                        {
+                            "x": 39,
+                            "y": 20
+                        },
+                        {
+                            "x": 39,
+                            "y": 21
+                        },
+                        {
+                            "x": 39,
+                            "y": 22
+                        },
+                        {
+                            "x": 39,
+                            "y": 23
+                        },
+                        {
+                            "x": 40,
+                            "y": 19
+                        },
+                        {
+                            "x": 40,
+                            "y": 20
+                        },
+                        {
+                            "x": 40,
+                            "y": 21
+                        },
+                        {
+                            "x": 40,
+                            "y": 22
+                        },
+                        {
+                            "x": 40,
+                            "y": 23
+                        }
+                    ]
+                },
+                "name": "px36y19"
+            },
+            "px4y11":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 4,
+                            "y": 11
+                        },
+                        {
+                            "x": 4,
+                            "y": 12
+                        },
+                        {
+                            "x": 4,
+                            "y": 13
+                        },
+                        {
+                            "x": 4,
+                            "y": 14
+                        },
+                        {
+                            "x": 4,
+                            "y": 15
+                        },
+                        {
+                            "x": 5,
+                            "y": 11
+                        },
+                        {
+                            "x": 5,
+                            "y": 12
+                        },
+                        {
+                            "x": 5,
+                            "y": 13
+                        },
+                        {
+                            "x": 5,
+                            "y": 14
+                        },
+                        {
+                            "x": 5,
+                            "y": 15
+                        },
+                        {
+                            "x": 6,
+                            "y": 11
+                        },
+                        {
+                            "x": 6,
+                            "y": 12
+                        },
+                        {
+                            "x": 6,
+                            "y": 13
+                        },
+                        {
+                            "x": 6,
+                            "y": 14
+                        },
+                        {
+                            "x": 6,
+                            "y": 15
+                        },
+                        {
+                            "x": 7,
+                            "y": 11
+                        },
+                        {
+                            "x": 7,
+                            "y": 12
+                        },
+                        {
+                            "x": 7,
+                            "y": 13
+                        },
+                        {
+                            "x": 7,
+                            "y": 14
+                        },
+                        {
+                            "x": 7,
+                            "y": 15
+                        },
+                        {
+                            "x": 8,
+                            "y": 11
+                        },
+                        {
+                            "x": 8,
+                            "y": 12
+                        },
+                        {
+                            "x": 8,
+                            "y": 13
+                        },
+                        {
+                            "x": 8,
+                            "y": 14
+                        },
+                        {
+                            "x": 8,
+                            "y": 15
+                        }
+                    ]
+                },
+                "name": "px4y11"
+            },
+            "px12y27":
+            {
+                "nookCoords":
+                {
+                    "coords":
+                    [
+                        {
+                            "x": 12,
+                            "y": 27
+                        },
+                        {
+                            "x": 12,
+                            "y": 28
+                        },
+                        {
+                            "x": 12,
+                            "y": 29
+                        },
+                        {
+                            "x": 12,
+                            "y": 30
+                        },
+                        {
+                            "x": 12,
+                            "y": 31
+                        },
+                        {
+                            "x": 13,
+                            "y": 27
+                        },
+                        {
+                            "x": 13,
+                            "y": 28
+                        },
+                        {
+                            "x": 13,
+                            "y": 29
+                        },
+                        {
+                            "x": 13,
+                            "y": 30
+                        },
+                        {
+                            "x": 13,
+                            "y": 31
+                        },
+                        {
+                            "x": 14,
+                            "y": 27
+                        },
+                        {
+                            "x": 14,
+                            "y": 28
+                        },
+                        {
+                            "x": 14,
+                            "y": 29
+                        },
+                        {
+                            "x": 14,
+                            "y": 30
+                        },
+                        {
+                            "x": 14,
+                            "y": 31
+                        },
+                        {
+                            "x": 15,
+                            "y": 27
+                        },
+                        {
+                            "x": 15,
+                            "y": 28
+                        },
+                        {
+                            "x": 15,
+                            "y": 29
+                        },
+                        {
+                            "x": 15,
+                            "y": 30
+                        },
+                        {
+                            "x": 15,
+                            "y": 31
+                        },
+                        {
+                            "x": 16,
+                            "y": 27
+                        },
+                        {
+                            "x": 16,
+                            "y": 28
+                        },
+                        {
+                            "x": 16,
+                            "y": 29
+                        },
+                        {
+                            "x": 16,
+                            "y": 30
+                        },
+                        {
+                            "x": 16,
+                            "y": 31
+                        }
+                    ]
+                },
+                "name": "px12y27"
+            }
+        },
+        "name": "jobmarket",
+        "id": "68hETTMcTXADM9q43oCVN",
+        "updatedAt": "2023-07-10T07:47:49.738Z",
+        "dimensions":
+        [
+            45,
+            45
+        ]
+    }
+}

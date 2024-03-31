@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="51" height="42" tilewidth="32" tileheight="32" infinite="0" nextlayerid="14" nextobjectid="1">
+ <imagelayer id="3" name="gecco big" locked="1">
+  <image source="logos/GECCO 2023 LOGO-dim.png" width="832" height="832"/>
+ </imagelayer>
+ <imagelayer id="4" name="gecco year place" locked="1" offsetx="848" offsety="-32">
+  <image source="logos/GECCO 2023 YEAR city-dim.png" width="800" height="736"/>
+ </imagelayer>
+ <imagelayer id="6" name="gecco 8x8" locked="1" offsetx="832" offsety="736">
+  <image source="logos/GECCO 2023 LOGO-dim8.png" width="256" height="256"/>
+ </imagelayer>
+ <imagelayer id="9" name="gecco 2x2" locked="1" offsetx="1312" offsety="736">
+  <image source="logos/GECCO 2023 LOGO-dim2.png" width="64" height="64"/>
+ </imagelayer>
+ <imagelayer id="10" name="gecco 3x3" locked="1" offsetx="1216" offsety="736">
+  <image source="logos/GECCO 2023 LOGO-dim3.png" width="96" height="96"/>
+ </imagelayer>
+ <imagelayer id="5" name="gecco year" locked="1" offsetx="0" offsety="832">
+  <image source="logos/GECCO 2023 YEAR-dim.png" width="800" height="512"/>
+ </imagelayer>
+ <imagelayer id="8" name="gecco 4x4" locked="1" offsetx="1088" offsety="736">
+  <image source="logos/GECCO 2023 LOGO-dim4.png" width="128" height="128"/>
+ </imagelayer>
+ <imagelayer id="11" name="gecco year 4x3" offsetx="832" offsety="1024">
+  <image source="logos/GECCO 2023 YEAR-dim4.png" width="128" height="96"/>
+ </imagelayer>
+ <imagelayer id="12" name="gecco year 2x2" offsetx="992" offsety="1024">
+  <image source="logos/GECCO 2023 YEAR-dim2.png" width="64" height="64"/>
+ </imagelayer>
+ <imagelayer id="13" name="gecco year 2x1" offsetx="1088" offsety="1024">
+  <image source="logos/GECCO 2023 YEAR-dim2x1.png" width="64" height="32"/>
+ </imagelayer>
+</map>
